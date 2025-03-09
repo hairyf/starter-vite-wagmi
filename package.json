@@ -33,7 +33,7 @@
     "@types/node": "^20.17.24",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
-    "@unocss/eslint-plugin": "^65.5.0",
+    "@unocss/eslint-plugin": "^66.0.0",
     "@vitejs/plugin-react": "^4.3.4",
     "eslint": "^9.22.0",
     "eslint-plugin-format": "^1.0.1",
@@ -42,7 +42,7 @@
     "harsta": "^0.10.4",
     "iconify-svgo-loader": "^1.0.5",
     "typescript": "^5.8.2",
-    "unocss": "^0.60.4",
+    "unocss": "^66.0.0",
     "unplugin-env-parsing": "^0.0.5",
     "vite": "^5.4.14",
     "vite-plugin-pages": "^0.32.5"
