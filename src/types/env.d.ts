@@ -12,6 +12,7 @@ declare global {
       readonly 'asl.log': string
       readonly 'CHROME_CRASHPAD_PIPE_NAME': string
       readonly 'CLION_VM_OPTIONS': string
+      readonly 'COLOR': number
       readonly 'COLORTERM': string
       readonly 'CommonProgramW6432': string
       readonly 'COMPUTERNAME': string
@@ -21,6 +22,7 @@ declare global {
       readonly 'DATASPELL_VM_OPTIONS': string
       readonly 'DEVECOSTUDIO_VM_OPTIONS': string
       readonly 'DriverData': string
+      readonly 'EDITOR': string
       readonly 'FPS_BROWSER_APP_PROFILE_STRING': string
       readonly 'FPS_BROWSER_USER_PROFILE_STRING': string
       readonly 'GATEWAY_VM_OPTIONS': string
@@ -49,7 +51,6 @@ declare global {
       readonly 'PATHEXT': string
       readonly 'PHPSTORM_VM_OPTIONS': string
       readonly 'PNPM_HOME': string
-      readonly 'PNPM_SCRIPT_SRC_DIR': string
       readonly 'PROCESSOR_ARCHITECTURE': string
       readonly 'PROCESSOR_IDENTIFIER': string
       readonly 'PROCESSOR_LEVEL': number
