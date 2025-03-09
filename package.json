@@ -15,7 +15,7 @@
     "@hairy/ether-lib": "^1.1.1",
     "@hairy/react-lib": "^1.1.2",
     "@hairy/utils": "^0.7.3",
-    "@harsta/client": "^0.9.9",
+    "@harsta/client": "^0.10.0",
     "@rainbow-me/rainbowkit": "^2.2.4",
     "@tanstack/react-query": "^5.67.2",
     "@unocss/reset": "66.1.0-beta.3",
