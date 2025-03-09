@@ -18,8 +18,8 @@ importers:
         specifier: ^0.7.3
         version: 0.7.3
       '@harsta/client':
-        specifier: ^0.9.9
-        version: 0.9.9(bufferutil@4.0.9)(react@18.3.1)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(wagmi@2.14.12(@tanstack/query-core@5.67.2)(@tanstack/react-query@5.67.2(react@18.3.1))(@types/react@18.3.18)(bufferutil@4.0.9)(immer@10.0.2)(react@18.3.1)(typescript@5.8.2)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(zod@3.24.2))
+        specifier: ^0.10.0
+        version: 0.10.4(bufferutil@4.0.9)(react@18.3.1)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(wagmi@2.14.12(@tanstack/query-core@5.67.2)(@tanstack/react-query@5.67.2(react@18.3.1))(@types/react@18.3.18)(bufferutil@4.0.9)(immer@10.0.2)(react@18.3.1)(typescript@5.8.2)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(zod@3.24.2))
       '@rainbow-me/rainbowkit':
         specifier: ^2.2.4
         version: 2.2.4(@tanstack/react-query@5.67.2(react@18.3.1))(@types/react@18.3.18)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(wagmi@2.14.12(@tanstack/query-core@5.67.2)(@tanstack/react-query@5.67.2(react@18.3.1))(@types/react@18.3.18)(bufferutil@4.0.9)(immer@10.0.2)(react@18.3.1)(typescript@5.8.2)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(zod@3.24.2))
@@ -981,8 +981,8 @@ packages:
   '@hairy/utils@0.7.3':
     resolution: {integrity: sha512-DD+40aMEVF2de2pHT4/eGuZW+vXf5tao1VQMGWIYWKCnq4dbFzV+3Qwu+dsbP3ekcmQHXA29haGGEObkKC3ArA==}
 
-  '@harsta/client@0.9.9':
-    resolution: {integrity: sha512-BIrqIvjntPRvM4M72ApzPkhzaGSd3Vk1l98KEu8ZzMdBKY1zlp/m/2qSr0d6NYlTZ8x88qHuRbndP3zrpPsqHQ==}
+  '@harsta/client@0.10.4':
+    resolution: {integrity: sha512-IqdxFCJeleuSPJ+ANDOmS3Iq0Wo170V3SUIi2ODhjE63bFbUPiscDWf8jnkG9zeLPh2dwMD+g2w4k42H2LURSw==}
     peerDependencies:
       react: '>=18'
       viem: 2.x
@@ -7179,7 +7179,7 @@ snapshots:
       bignumber.js: 9.1.2
       p-pipe: 4.0.0
 
-  '@harsta/client@0.9.9(bufferutil@4.0.9)(react@18.3.1)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(wagmi@2.14.12(@tanstack/query-core@5.67.2)(@tanstack/react-query@5.67.2(react@18.3.1))(@types/react@18.3.18)(bufferutil@4.0.9)(immer@10.0.2)(react@18.3.1)(typescript@5.8.2)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(zod@3.24.2))':
+  '@harsta/client@0.10.4(bufferutil@4.0.9)(react@18.3.1)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(wagmi@2.14.12(@tanstack/query-core@5.67.2)(@tanstack/react-query@5.67.2(react@18.3.1))(@types/react@18.3.18)(bufferutil@4.0.9)(immer@10.0.2)(react@18.3.1)(typescript@5.8.2)(utf-8-validate@5.0.10)(viem@2.23.5(bufferutil@4.0.9)(typescript@5.8.2)(utf-8-validate@5.0.10)(zod@3.24.2))(zod@3.24.2))':
     dependencies:
       ethers: 6.13.5(bufferutil@4.0.9)(utf-8-validate@5.0.10)
       react: 18.3.1
